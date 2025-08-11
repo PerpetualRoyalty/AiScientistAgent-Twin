@@ -1,2 +1,1 @@
-# AiScientistAgent-Twin
-AiScientistAgent‑Twin is a production‑ready Human Digital Twin stack: Great Expectations‑driven data quality, LiDAR anthropometry, multiscale OpenSim/CellML simulation, Argo‑K8s workflows, Pub/Sub‑Slack QC alerts, SBOM‑signed Docker, HIPAA‑centric governance, CI gatekeepers, CODEOWNERS‑enforced reviews, Terraform IaC solid.
+AiScientistAgent-Twin is an in-development human digital-twin stack targeting Great Expectations–based data quality, phone-LiDAR anthropometry, OpenSim/CellML simulation, Argo-on-K8s workflows, Pub/Sub→Slack QC alerts, and supply-chain hardening (SBOM + cosign), with HIPAA-aligned governance, CI gatekeepers, CODEOWNERS reviews, and Terraform IaC.
